@@ -1,0 +1,39 @@
+{
+  "name": "dailo",
+  "version": "1.0.0",
+  "description": "Dailo simple",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "Authy",
+    "Twilio",
+    "2FA",
+    "NodeJS"
+  ],
+  "author": "Anup",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "authy": "^1.4.0",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.3.4",
+    "nodemon": "^1.11.0",
+    "qs": "^6.3.0",
+    "request": "^2.83.0"
+  }
+}
